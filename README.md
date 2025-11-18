@@ -6,7 +6,7 @@
 - 🐍 Python development for OT/IT integration  
 - 🌐 IIoT, MQTT, OPC UA, Modbus, and industrial communication  
 - 🖥️ SCADA/ICS design & edge computing 
-- 🐧 Linux enthusiast ( I use Debian btw ;-) )
+- 🐧 Linux enthusiast ( I use Debian btw 😉 )
 
 I love building smart automation solutions, integrating industrial systems, and creating tools that make engineering easier.
 
