@@ -19,16 +19,6 @@ I love building smart automation solutions, integrating industrial systems, and 
 
 ### 📫 Contact
 <div align="left">
-  <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN-URL](https://www.linkedin.com/in/anders-kristensen-3282867a/)" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" 
-         width="52" 
-         height="40" 
-         alt="LinkedIn logo" />
-  </a>
-</div>
-
-
-<div align="left">
   <a href="https://www.linkedin.com/in/anders-kristensen-3282867a/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" 
          width="52" 
