@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Anders
 
-<!--
-**Akristensen33/Akristensen33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Automation Engineer** specializing in:
 
-Here are some ideas to get you started:
+- 🏭 Siemens PLC programming (S7-1500, TIA Portal, WinCC Unified)  
+- 🐍 Python development for OT/IT integration  
+- 🌐 IIoT, MQTT, OPC UA, Modbus, and industrial communication  
+- 🖥️ SCADA/ICS design & edge computing 
+- 🐧 Linux enthusiast ( I use Debian btw ;-) )
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love building smart automation solutions, integrating industrial systems, and creating tools that make engineering easier.
+
+### 🔧 Current Focus
+- Industrial connectivity tooling (PLC ↔ Python ↔ SCADA)  
+- SCADA UI concepts
+- Siemens Unified Dev.
+- Building OT networking and cybersecurity foundations  
+
+
+### 📫 Contact
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+</div>
+
+###
